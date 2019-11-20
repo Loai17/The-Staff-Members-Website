@@ -12,3 +12,6 @@ This is ultimately the most fun lab that has ever been created in MEET history!
 ### Answer: To try and collect as much information as possible about the staff member without using his/her help! And showing it on the website obviously.
 </br></br>
 ### The Winner/s get a prize of your hub's choice!
+</br>
+</br>
+** Don't forget to fork and then clone.
